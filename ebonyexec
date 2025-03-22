@@ -1,0 +1,113 @@
+{
+  "title": "Chess OCT: The Ebony Executioner",
+  "description": "A living weapon built in another age",
+  "artist": "Feaurie (and others)",
+  "author": "Feaurie (and others)",
+  "cover": "https://i.imgur.com/Yn6UPLR.jpeg",
+  "chapters": {
+    "1": {
+      "title": "Prologue: The Oldest Pawn",
+      "volume": "1",
+      "groups": {
+        "Feaurie": "/proxy/api/imgur/chapter/9aB6GLT/"
+      },
+      "last_updated": "1616368746"
+    },
+  "2": {
+      "title": "Round 1: The Boy Who Cried Wolf",
+      "volume": "2",
+      "groups": {
+        "Feaurie": "/proxy/api/imgur/chapter/pRDvTsL/"
+      },
+      "last_updated": "1616368746"
+    },
+ "3": {
+      "title": "Round 1.5: Therapy",
+      "volume": "3",
+      "groups": {
+        "Feaurie": "/proxy/api/imgur/chapter/hVzLjZQ/"
+      },
+      "last_updated": "1616368746"
+    },
+ "4": {
+      "title": "Round 1.75: A Short Talk",
+      "volume": "4",
+      "groups": {
+        "Feaurie": "/proxy/api/imgur/chapter/p1Oipc/"
+      },
+      "last_updated": "1616368746"
+    },
+ "5": {
+      "title": "Round 2: Ouroboros",
+      "volume": "5",
+      "groups": {
+        "Feaurie": "/proxy/api/imgur/chapter/UGAgudX/"
+      },
+      "last_updated": "1616368746"
+    },
+ "6": {
+      "title": "Round 2.5: Ebex vs the Mad Priest",
+      "volume": "6",
+      "groups": {
+        "Feaurie": "/proxy/api/imgur/chapter/m95b6wC/"
+      },
+      "last_updated": "1616368746"
+    },
+ "7": {
+      "title": "Round 2.75: Do Not Call",
+      "volume": "7",
+      "groups": {
+        "Feaurie": "/proxy/api/imgur/chapter/Rkgh7LJ/"
+      },
+      "last_updated": "1616368746"
+    },
+ "8": {
+      "title": "Round 3: Dance Macabre",
+      "volume": "8",
+      "groups": {
+        "Feaurie": "/proxy/api/imgur/chapter/5HP68xh/"
+      },
+      "last_updated": "1616368746"
+    },
+ "9": {
+      "title": "Round 3.5: Intermission",
+      "volume": "9",
+      "groups": {
+        "Feaurie": "/proxy/api/imgur/chapter/7BPk1qG/"
+      },
+      "last_updated": "1616368746"
+    },
+ "10": {
+      "title": "Round 4: The Screaming Chariot",
+      "volume": "10",
+      "groups": {
+        "Baba and Arthrai": "/proxy/api/imgur/chapter/mEYFo9Z/"
+      },
+      "last_updated": "1616368746"
+    },
+ "11": {
+      "title": "Round 4.5: The End Times",
+      "volume": "11",
+      "groups": {
+        "Feaurie": "/proxy/api/imgur/chapter/Ol8cGYY/"
+      },
+      "last_updated": "1616368746"
+    },
+ "12": {
+      "title": "Round 3: Beatrice and the Checker Queen (L)",
+      "volume": "12",
+      "groups": {
+        "Xeno200 and Wolkemesser": "/proxy/api/imgur/chapter/C0cQEQL/"
+      },
+      "last_updated": "1616368746"
+    },
+ "13": {
+      "title": "Round 4: A Fire and a Hot Place (L)",
+      "volume": "13",
+      "groups": {
+        "Feaurie and Rex": "/proxy/api/imgur/chapter/FdMzfay/"
+      },
+      "last_updated": "1616368746"
+    }
+}
+}
